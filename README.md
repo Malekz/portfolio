@@ -22,4 +22,4 @@ This is my portfolio website, it contains information about me, my background, a
  Website Preview
 -----------------
 
-![](assets/images/preview-1.png)
+![A](assets/images/preview-1.png)
