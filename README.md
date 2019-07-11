@@ -9,7 +9,7 @@ This is my portfolio website, it contains information about me, my background, a
 ------------------------------
 https://malekz.github.io/portfolio/
 
-<http://www.zarzour.de>
+<https://www.zarzour.de>
 
 Technologies i used in my project
 ----------------------------------
