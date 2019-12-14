@@ -1,7 +1,7 @@
  My Portfolio
 ------------------------
 
-This is my portfolio website, it contains information about me, my background, and what i am doing.
+This is my portfolio website.
 
 
 
